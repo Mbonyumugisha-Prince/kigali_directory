@@ -75,8 +75,6 @@ Each document represents one place or service listing.
 | `address` | String | Street address in Kigali |
 | `contactNumber` | String | Phone number |
 | `description` | String | Description of the place |
-| `latitude` | Number | Geographic latitude (0.0 if not set) |
-| `longitude` | Number | Geographic longitude (0.0 if not set) |
 | `createdBy` | String | UID of the user who created the listing |
 | `createdAt` | Timestamp | Server timestamp of creation |
 
