@@ -147,7 +147,7 @@ This app requires a Firebase project with **Authentication** and **Firestore** e
 
 **b. Add your Android app to Firebase**
 
-1. In the Firebase Console, go to **Project Settings** → **Your apps** → Add Android app
+1. In the Firebase Console, go to **Project Settings** → Kigali Directory → Add Android app
 2. Use the package name `com.example.kigaliDirectory`
 3. Download `google-services.json` and place it at:
    ```
